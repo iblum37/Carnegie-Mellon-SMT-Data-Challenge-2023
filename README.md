@@ -1,7 +1,10 @@
 # Carnegie-Mellon-SMT-Data-Challenge-2023
-This is the GitHub repository for a submission to the 2023 SMT Data Challenge. In this project, we are looking at the relationship between the pitcher, catcher, and middle infielder to determine how they effect each other in trying to throw a basestealer out.
+This is the GitHub repository for a submission to the 2023 SMT Data Challenge. In this project, we are looking at the relationship between the pitcher, catcher, and middle infielder to determine how they affect each other in trying to throw a basestealer out.
+
+My main contribution was the development of an R Shiny application in which I will provide my code for that.
+
+Note that there only contains the pdf of our 1st place submission and no code because of an NDA. This means the R Shiny code is, unfortunately, not replicable.
+
+Link to the R Shiny App: [Stolen Base Defense](https://7dej8y-isaac-blumhoefer.shinyapps.io/Stolen_Base_Defense/)
 
 Other group members include Jack Rogers, Kai Franke, and Jackson Balch.
-
-Only contains the pdf of our 1st place submission along with code for the R Shiny app because of an NDA.
-Link to the R Shiny App: [Stolen Base Defense](https://7dej8y-isaac-blumhoefer.shinyapps.io/Stolen_Base_Defense/)
